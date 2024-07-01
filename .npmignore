@@ -9,4 +9,5 @@ eslint.config.mjs
 .git
 .release-it.json
 .env
+.husky
 src
